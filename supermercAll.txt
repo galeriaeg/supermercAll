@@ -1,0 +1,34 @@
+SupermercAll - Sistema de cotação de preços de Supermercados
+
+*************************************************************
+
+A finalidade do sistema é apresentar para o usuário uma lista de compras, dando a ele os melhores locais, considerando 
+menor preço e menor distacioa entre estabelecimento e ele(usuario).
+
+O sistema capta a localização do usuário, ele vai add os produtos do seu interesse a sua lista de compras, sem se preoculpar 
+de qual supermercado é aquele produto. Ao finalizar a lista, é apresentado ao usuário sua lista de compras com nome e endereço
+do supermercado. Dependendo do resultado, a lista poderá ficar organizada em blocos. 
+
+Ex:
+
+
+CenterBox
+{Endereço......}
+Produto1.......R$ 14,00
+Produto2.......R$ 24,00
+Produto3.......R$ 84,40
+Produto4.......R$ 18,10
+
+
+Mercadinho Sao luiz
+{Endereço......}
+Produto5.......R$ 11,00
+Produto6.......R$ 32,10
+Produto7.......R$ 84,44
+Produto8.......R$ 10,10
+
+
+
+Os Supermercados podem se cadastrar, add seus produtos e menores preços.
+
+Site: http://bsimagem.com.br/supermercall/
